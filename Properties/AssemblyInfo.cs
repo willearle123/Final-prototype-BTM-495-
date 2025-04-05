@@ -8,9 +8,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("BookingAppointment")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("University of Ottawa")]
 [assembly: AssemblyProduct("BookingAppointment")]
-[assembly: AssemblyCopyright("Copyright © University of Ottawa 2025")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
